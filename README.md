@@ -1,0 +1,3 @@
+Some playing around with web scraping...
+
+This has been stubbed out and is probably not useful for anyone. 
