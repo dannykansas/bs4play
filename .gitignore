@@ -1,0 +1,5 @@
+*.pyc
+/datadump/*
+/final/*
+/cleandata/*
+/rawdata/*
